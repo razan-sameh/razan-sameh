@@ -1,4 +1,4 @@
-<img align='center' width='100%' src="https://img.freepik.com/free-vector/programmer-working-with-css_52683-24172.jpg?t=st=1710011492~exp=1710015092~hmac=c70ecb77bc4f20ed233f0168513ccd724d033bebfe4c155e9ffa5f77de5ff1b7&w=996"/>
+<img align='center' width='50%' src="https://img.freepik.com/free-vector/programmer-working-with-css_52683-24172.jpg?t=st=1710011492~exp=1710015092~hmac=c70ecb77bc4f20ed233f0168513ccd724d033bebfe4c155e9ffa5f77de5ff1b7&w=996"/>
 <h1>Hi 👋, I'm Razan</h1>
 <h3>A passionate junior software developer recent graduate from ITI 4-Month Full-Stack .Net Development track, with a strong foundation in different software like web and mobile development. I'm enthusiastic about leveraging my skills to solve real-world problems and contribute to impactful projects.rom India</h3>
 
