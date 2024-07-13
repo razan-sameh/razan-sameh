@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Mobile Application](https://github.com/razan-sameh/Coffee-App)
+- 👯 I’m currently working on [Mobile Application](https://github.com/razan-sameh/Coffee-App)
 
 - 🌱 I’m currently learning **React native**
 
-- 👯 I’m looking for **opportunities to further develop my skills and contribute to innovative projects. Whether it's through internships, freelance opportunities, or full-time positions, I'm eager to join a team where I can learn and grow as a developer.**
+- 🔭 I’m looking for **opportunities to further develop my skills and contribute to innovative projects. Whether it's through internships, freelance opportunities, or full-time positions, I'm eager to join a team where I can learn and grow as a developer.**
 
 - 📫 How to reach me **razan.dev24@gmail.com**
 
