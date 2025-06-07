@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 🔭 I’m looking for **opportunities to further develop my skills and contribute to innovative projects. Whether it's through internships, freelance opportunities, or full-time positions, I'm eager to join a team where I can learn and grow as a developer.**
+- 🔭 I’m looking for **opportunities to further develop my skills and contribute to innovative projects. Whether it's through freelance opportunities or full-time positions, I'm eager to join a team where I can learn and grow as a developer.**
 
 - 📫 How to reach me **razan.dev24@gmail.com**
 
